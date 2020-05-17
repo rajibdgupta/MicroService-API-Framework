@@ -1,0 +1,15 @@
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\obj\Debug\netcoreapp3.1\ZydusFrontline.Repository.csprojAssemblyReference.cache
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\obj\Debug\netcoreapp3.1\ZydusFrontline.Repository.AssemblyInfoInputs.cache
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\obj\Debug\netcoreapp3.1\ZydusFrontline.Repository.AssemblyInfo.cs
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Repository.deps.json
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Repository.runtimeconfig.json
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Repository.runtimeconfig.dev.json
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Repository.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Repository.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Entity.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Interface.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Entity.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\bin\Debug\netcoreapp3.1\ZydusFrontline.Interface.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\obj\Debug\netcoreapp3.1\ZydusFrontline.Repository.csproj.CopyComplete
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\obj\Debug\netcoreapp3.1\ZydusFrontline.Repository.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Repository\obj\Debug\netcoreapp3.1\ZydusFrontline.Repository.pdb

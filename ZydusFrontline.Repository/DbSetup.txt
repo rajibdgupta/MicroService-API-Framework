@@ -1,0 +1,20 @@
+﻿Connection sting:
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                IConfigurationBuilder builder = new ConfigurationBuilder();
+                builder.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
+                var root = builder.Build();
+                var sampleConnectionString = root.GetConnectionString("DBContext");
+                optionsBuilder.UseSqlServer(sampleConnectionString);
+            }
+        }
+------------------------------------------
+Run the DB context PM
+
+Scaffold-DbContext "Server=IN-CCUETOUWV002\MSSQLSERVER2017;Database=PWCPharma;Persist Security Info=False;User ID=sa;Password=pwc@1234;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False;Connection Timeout=30;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir ContextModel -Context DBContext -Project ZydusFrontline.Repository -Force
+
+------------------------------------------
+
+

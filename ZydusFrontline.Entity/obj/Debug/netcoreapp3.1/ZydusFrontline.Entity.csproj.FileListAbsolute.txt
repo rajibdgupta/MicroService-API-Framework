@@ -1,0 +1,7 @@
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Entity\bin\Debug\netcoreapp3.1\ZydusFrontline.Entity.deps.json
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Entity\bin\Debug\netcoreapp3.1\ZydusFrontline.Entity.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Entity\bin\Debug\netcoreapp3.1\ZydusFrontline.Entity.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Entity\obj\Debug\netcoreapp3.1\ZydusFrontline.Entity.AssemblyInfoInputs.cache
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Entity\obj\Debug\netcoreapp3.1\ZydusFrontline.Entity.AssemblyInfo.cs
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Entity\obj\Debug\netcoreapp3.1\ZydusFrontline.Entity.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Entity\obj\Debug\netcoreapp3.1\ZydusFrontline.Entity.pdb

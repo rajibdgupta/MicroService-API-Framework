@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZydusFrontline.Entity\ZydusFrontline.Entity.csproj" />
+    <ProjectReference Include="..\ZydusFrontline.Interface\ZydusFrontline.Interface.csproj" />
+    <ProjectReference Include="..\ZydusFrontline.Repository\ZydusFrontline.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\obj\Debug\netcoreapp3.1\ZydusFrontline.Services.AssemblyInfoInputs.cache
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\obj\Debug\netcoreapp3.1\ZydusFrontline.Services.AssemblyInfo.cs
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Services.deps.json
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Services.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Services.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Entity.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Interface.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Repository.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Entity.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Interface.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\bin\Debug\netcoreapp3.1\ZydusFrontline.Repository.pdb
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\obj\Debug\netcoreapp3.1\ZydusFrontline.Services.csprojAssemblyReference.cache
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\obj\Debug\netcoreapp3.1\ZydusFrontline.Services.csproj.CopyComplete
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\obj\Debug\netcoreapp3.1\ZydusFrontline.Services.dll
+C:\ZydusAks\ZydusFrontline\ZydusFrontline.Services\obj\Debug\netcoreapp3.1\ZydusFrontline.Services.pdb
